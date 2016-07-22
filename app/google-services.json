@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988901223060",
+    "project_id": "firebase-sample-social-login"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988901223060:android:94327c3875fde7dc",
+        "android_client_info": {
+          "package_name": "com.rogalabs.sample_social_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988901223060-ppsaj63eviqvp7mqtrdhfhe41e4s6i3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogalabs.sample_social_login",
+            "certificate_hash": "889027E4494620CFEBCAA4682A5A87C88385DC40"
+          }
+        },
+        {
+          "client_id": "988901223060-ejic42volellcte27m6j1c57d1p9kj6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO9-5h9-3DcP59Z5vZQ0Zw1ynFjCrH6iE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

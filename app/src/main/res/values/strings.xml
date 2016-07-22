@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sample-social-login</string>
+    <string name="google_login_label">Google Login</string>
+    <string name="facebook_login_label">Facebook Login</string>
+
+    <string name="facebook_app_id">297689643901510</string>
+</resources>
